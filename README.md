@@ -10,6 +10,7 @@ Urban Institute users: to make updates:
 6. To view the site, you can navigate [here](https://powerful-waters-1711.herokuapp.com/) or run `heroku open`
 
 
+
 Contributors: Yuri Victor, Joshua Benton, Matt Montgomery, Ivar Vong, Steve Peters, Flip Stewart, Greg MacWilliam.
 
 Meme is a generator that Vox Media uses to create social sharing images. See working version at [http://www.sbnation.com/a/meme](http://www.sbnation.com/a/meme).
