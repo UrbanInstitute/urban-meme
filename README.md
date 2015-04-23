@@ -1,12 +1,13 @@
 # Meme v.2
 
 Urban Institute users: to make updates:
-1 Install the [Heroku toolbelt](https://toolbelt.heroku.com/) (one time only)
-2 Create a (free) [Heroku account](https://signup.heroku.com/www-header) (one time only)
-2 Make changes and push them to github, as usual (git add, git commit, git push)
-3 You can view your changes locally by running `bundle exec middleman`, as explained below
-3 Once you're happy with your changes, deploy by running `git push heroku master`
-4 To view the site, you can navigate [here](https://powerful-waters-1711.herokuapp.com/) or run `heroku open`
+
+1. Install the [Heroku toolbelt](https://toolbelt.heroku.com/) (one time only)
+2. Create a (free) [Heroku account](https://signup.heroku.com/www-header) (one time only)
+3. Make changes and push them to github, as usual (git add, git commit, git push)
+4. You can view your changes locally by running `bundle exec middleman`, as explained below
+5. Once you're happy with your changes, deploy by running `git push heroku master`
+6. To view the site, you can navigate [here](https://powerful-waters-1711.herokuapp.com/) or run `heroku open`
 
 
 Contributors: Yuri Victor, Joshua Benton, Matt Montgomery, Ivar Vong, Steve Peters, Flip Stewart, Greg MacWilliam.
